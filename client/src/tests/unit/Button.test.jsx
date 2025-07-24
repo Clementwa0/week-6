@@ -1,9 +1,7 @@
-// Button.test.jsx - Unit test for Button component
-
 import React from 'react';
 import { render, screen, fireEvent } from '@testing-library/react';
 import '@testing-library/jest-dom';
-import Button from '../../components/Button';
+import Button from '../../components/ui/button';
 
 describe('Button Component', () => {
   // Test rendering

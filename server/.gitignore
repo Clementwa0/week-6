@@ -1,0 +1,42 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Coverage reports
+coverage/
+
+# Build output
+dist/
+build/
+
+# VSCode settings
+.vscode/
+
+# Jest cache
+jest-cache/
+jest-coverage/
+
+# Optional npm cache directory
+.npm/
+
+# Debug folder for VS Code
+.vscode-test/
+
+# OS metadata
+*.swp
